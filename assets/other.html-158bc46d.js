@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5547494c","path":"/pages/other/other.html","title":"还没想好....","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679813818000,"contributors":[{"name":"zhangyu","email":" zhangyu_techlife@163","commits":1}]},"filePathRelative":"pages/other/other.md"}');export{e as data};
