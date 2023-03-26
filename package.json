@@ -1,0 +1,27 @@
+{
+  "name": "zy_blob",
+  "version": "1.0.0",
+  "description": "我的文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongyuanwai/learnjtsdoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongyuanwai/learnjtsdoc/issues"
+  },
+  "homepage": "https://github.com/dongyuanwai/learnjtsdoc#readme",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.61",
+    "vuepress": "^2.0.0-beta.48",
+    "vuepress-plugin-next-search": "^1.0.8",
+    "vuepress2-plugin-full-text-search": "^0.4.0"
+  }
+}
